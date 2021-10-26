@@ -1,0 +1,20 @@
+body{
+    background: radial-gradient(transparent 29%, #8DDBE0 30%, #8DDBE0 50%, transparent 51%, transparent 74%, #8DDBE0 75%, #8DDBE0 95%, transparent 96%);
+    background-size: 2em 2em;
+    background-color: #595758;
+    opacity: 0.5
+}
+.header-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #29335C;
+}
+.content-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+#summary{
+    max-width: 25%;
+}
+
